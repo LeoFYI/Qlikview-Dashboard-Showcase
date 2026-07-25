@@ -1,6 +1,7 @@
 Demo Reports
 
 **1. KPI Dashboard**: Provides an overview of key call centre performance metrics, e.g. sales vs target, AHT, NPS, and trends.
+
 **2. Customer Survey Dashboard**: Track survey scores and feedback at the individual interaction level.
 **3. Coaching Suite**: Lists customer interactions and related activities, e.g. orders, enquiries, complaints etc, alongside survey and QA scores & with the ability to view evaluation forms and listen to call recordings.
 **4. Call Activities Tracker**: Tracks activities associated with customer calls, e.g. orders, payments, enquiries, refunds, claims and new cust set up, with the ability to listen to call recordings.
