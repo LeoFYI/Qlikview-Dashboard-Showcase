@@ -1,4 +1,4 @@
-**Demo Reports**
+**Demo Reports (Sample Data)**
 
 **1. KPI Dashboard**: Provides an overview of key call centre performance metrics, e.g. sales vs target, AHT, NPS, and trends.
 
